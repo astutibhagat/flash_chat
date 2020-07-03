@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964200267369",
+    "firebase_url": "https://flash-chat-2a157.firebaseio.com",
+    "project_id": "flash-chat-2a157",
+    "storage_bucket": "flash-chat-2a157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964200267369:android:32773e29e40b8c0e532cf8",
+        "android_client_info": {
+          "package_name": "com.AstutiB.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964200267369-dl0u406nkvp78vlh0jbg08cuil0g3m6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRHnIf1ZHeNvKbeRZqguGfPnQKSY4CRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964200267369-dl0u406nkvp78vlh0jbg08cuil0g3m6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
